@@ -1,6 +1,6 @@
 # Kitty Terminal Configuration
 
-![Kitty Terminal](kitty_terminal_screenshot.png)
+
 
 This repository contains my personal configuration for the Kitty terminal emulator, tailored to enhance my development workflow and make the terminal experience more enjoyable. Kitty is a fast, feature-rich, GPU-accelerated terminal emulator.
 
