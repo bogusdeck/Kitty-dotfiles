@@ -64,6 +64,7 @@ This repository contains my personal configuration for the Kitty terminal emulat
    cp -f config.fish ~/.config/fish/
    ```
 
+if you have any issue feel free to ping me!
 ---
 
 Enjoy using the Kitty terminal with this configuration! If you find it helpful, don't forget to give it a star. Happy coding! 🚀
