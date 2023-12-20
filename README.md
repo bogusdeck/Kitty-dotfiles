@@ -1,5 +1,6 @@
 # Kitty Terminal Configuration
 
+![screenshot (1)](https://github.com/Prome-theus/Kitty-dotfiles/assets/80052733/a6abe5ad-6903-4e60-808d-64272d321fb2)
 
 
 This repository contains my personal configuration for the Kitty terminal emulator, tailored to enhance my development workflow and make the terminal experience more enjoyable. Kitty is a fast, feature-rich, GPU-accelerated terminal emulator.
