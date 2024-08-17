@@ -4,7 +4,9 @@
 
 If you like my work, consider buying me a coffee! ☕️
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bogusdeck)
+<a href="https://www.buymeacoffee.com/bogusdeck" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="150" />
+</a>
 
 
 This repository contains my personal configuration for the Kitty terminal emulator, tailored to enhance my development workflow and make the terminal experience more enjoyable. Kitty is a fast, feature-rich, GPU-accelerated terminal emulator.
