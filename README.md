@@ -2,6 +2,10 @@
 
 ![screenshot (1)](https://github.com/Prome-theus/Kitty-dotfiles/assets/80052733/a6abe5ad-6903-4e60-808d-64272d321fb2)
 
+If you like my work, consider buying me a coffee! ☕️
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/bogusdeck)
+
 
 This repository contains my personal configuration for the Kitty terminal emulator, tailored to enhance my development workflow and make the terminal experience more enjoyable. Kitty is a fast, feature-rich, GPU-accelerated terminal emulator.
 
