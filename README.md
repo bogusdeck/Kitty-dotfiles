@@ -20,7 +20,7 @@ This repository contains my personal configuration for the Kitty terminal emulat
 2. **Clone this Repository:**
 
    ```bash
-   git clone https://github.com/Prome-theus/Kitty-dotfiles
+   git clone https://github.com/bogusdeck/Kitty-dotfiles
    ```
 
 3. **Copy Configuration Files:**
